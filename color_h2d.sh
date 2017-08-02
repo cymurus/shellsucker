@@ -4,7 +4,7 @@ function usage()
 {
     echo -e 'Usage: '
     echo -e "\t$0 3498db"
-    echo -e 'fuck the "#" har'
+    echo -e 'fuck the "#" char'
     echo -e 'Output: '
     echo -e "\tR: 52"
     echo -e "\tG: 152"

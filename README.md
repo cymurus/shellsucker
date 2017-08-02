@@ -6,7 +6,7 @@ This is a project as notes, which records my exercise during
 
 ## Intro in details.
 * #### git_push.sh
-    I cannot remenber commands of git, so I write down these into tis script.
+    I cannot remember commands of git, so I write down these into this script.
     <br/>
     but fuck, it cannot work.
 * #### color_h2d.sh
