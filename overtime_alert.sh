@@ -10,6 +10,7 @@ IFS="
 
 function send_mail()
 {
+    ip=$1
     echo $ip | mail -s "Login Overtime Alert." $EMAIL
 }
 
