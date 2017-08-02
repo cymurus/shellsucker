@@ -1,5 +1,5 @@
 ## Intro of this shit.
-This is a project as notes, which records my exercise during 
+This is a project as notes, which records my exercise during studying shell.
 <br/>
 <br/>
 <br/>
@@ -13,3 +13,9 @@ This is a project as notes, which records my exercise during
     convert color from hex format to dec format.
     <br/>
     it's for every MS-Office-like software which I cannot find the hex color in.
+* #### find_port.sh
+    find port in use from start to end.
+* #### overtime_alert.sh
+    If a user have been logged in more then 24 hours, send a email to alert.
+    <br/>
+    but fuck, it doesn't work.
