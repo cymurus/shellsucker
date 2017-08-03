@@ -29,3 +29,13 @@ done
 #done <<< `who | grep $USER | awk '{printf("%s %s\n", $3, $4)}'`
 
 IFS=$IFS_OLD
+
+
+
+# study point:
+# - IFS can be used like this?
+#	IFS="
+#	"
+# - to convert a datetime into timestamp
+#	date +%s -d "format"
+# 

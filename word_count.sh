@@ -44,3 +44,16 @@ done
 for word in ${!word_map[@]}; do
     printf "\t%s: %d\n" $word ${word_map["$word"]}
 done
+
+
+
+# study point:
+# - to use a map
+#	declare -A map=("a"="1" "b"="2")
+#	${!map[@]} # keys
+# - func that returns string
+#	in func: echo $ret
+#	out of func: var=$("func")
+# - to replace pattern
+#	${var/old/new} #fisrt
+#	${var//old/new} #global
