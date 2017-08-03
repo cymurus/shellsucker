@@ -19,3 +19,5 @@ This is a project as notes, which records my exercise during studying shell.
     If a user have been logged in more then 24 hours, send a email to alert.
     <br/>
     but fuck, it doesn't work.
+* #### word_count.sh
+    count the word frequency of a specifical file.
