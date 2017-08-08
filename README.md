@@ -23,3 +23,5 @@ This is a project as notes, which records my exercise during studying shell.
     count the word frequency of a specifical file.
 * #### tty_kill.sh
     to list the process usage of each tty, then choose one to kill
+* #### exec_tcp.sh
+    make a tcp connection
